@@ -44,3 +44,5 @@ public class zadanie3 {
             System.out.print(num + " ");
         }
     }}
+
+
